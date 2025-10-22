@@ -4,3 +4,4 @@ resources:
   - migrate-job.yaml
   - deployment.yaml
   - service.yaml
+  - secret-db-url.yaml

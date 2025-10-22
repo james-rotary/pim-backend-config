@@ -2,7 +2,7 @@ resources:
   - ../../base
 images:
   - name: pim-backend-api
-    newTag: dev
+    newTag: dev2
 patches:
   - target:
       kind: Deployment

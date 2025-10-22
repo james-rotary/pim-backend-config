@@ -1,0 +1,6 @@
+namespace: pim
+resources:
+  - namespace.yaml
+  - migrate-job.yaml
+  - deployment.yaml
+  - service.yaml

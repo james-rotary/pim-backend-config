@@ -1,6 +1,6 @@
 namespace: pim
 resources:
   - namespace.yaml
-  - secret-db-url.yaml
+  - sealed-secret-db-url.yaml
   - deployment.yaml
   - service.yaml
